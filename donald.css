@@ -2,7 +2,7 @@ body{
     font: Arial;
     padding: 0;
     margin: 0;
-    background: skyblue;
+    background: orange;
    font-color: black;
 } 
  h1,h2{
@@ -15,6 +15,11 @@ body{
      font-size:20px;
      text-align: center;
    color:black;
+     
+ }
+ .video-container {
+     position: relative;
+     text-align: center;
      
  }
  img{
